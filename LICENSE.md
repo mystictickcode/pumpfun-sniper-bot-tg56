@@ -1,4 +1,4 @@
-# 
+# smart pump.fun sniper bot | auto-buy + gas-optimization is the best pump.fun sniper bot, featuring auto-buy and gas-optimization. Fast, smart, and optimized for MEV and sniper
 
 
 
